@@ -17,3 +17,4 @@ print("Random User Info:")
 print(f"Name   : {name}")
 print(f"Gender : {gender}")
 print(f"Email  : {email}")
+
